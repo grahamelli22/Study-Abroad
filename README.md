@@ -26,4 +26,4 @@ This project was created to:
 
 ---
 
-Feel free to explore the project, and if you have any questions or suggestions, don't hesitate to reach out. Your feedback is always welcome!
+Feel free to explore the project by clicking on the .xlsx file above.
